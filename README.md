@@ -1,0 +1,1 @@
+This mini project was created as part of our introduction to Machine Learning course. It explores the Scikit-learn Digits dataset through basic exploratory data analysis (EDA) and dimensionality reduction using Principal Component Analysis (PCA). The goal is to understand the structure of the dataset and visualize patterns in handwritten digit images.
